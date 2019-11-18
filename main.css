@@ -1,0 +1,36 @@
+/* background colors */
+.bg-solid-grey{
+ background-color: grey;
+}
+
+/*general sizing*/
+.ml-10{
+  margin-left: 10em;
+}
+
+
+/*img sizing*/
+.marketplace{
+  max-width: 75%;
+  max-height: 15%;
+  transform: rotate(90deg);
+}
+
+/*div sizing*/
+.h25{
+  height: 25vh;
+}
+
+/*elements*/
+.btn-box{
+  position:fixed;
+  bottom: 0px;
+  right: 0px;
+}
+.btn-shop{
+  height: 50px;
+  width: 150px;
+  background-color: black;
+  color: white;
+  border-color: black;
+}
